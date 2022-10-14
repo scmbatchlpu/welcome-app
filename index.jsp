@@ -48,7 +48,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
             </div>
             <div id="upper" class="curved container">
                 <div id="congrats" class="curved container">
-                    <h2>If you're seeing this, you've successfully installed Tomcat. Congratulations! You have upgraded your version to 2 Hello Jenkins</h2>
+                    <h2>If you're seeing this, you've successfully installed Tomcat. Congratulations! You have upgraded your version to 2 Hello Jenkins. You have configured using jenkins</h2>
                 </div>
                 <div id="notice">
                     <img id="tomcat-logo" src="tomcat.svg" alt="[tomcat logo]" />
